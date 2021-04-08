@@ -1,0 +1,7 @@
+Go to   Run --> Run Configurations --> Click on Arguments Tab --> Copy Paste into VM arguments 
+Module Path will be different depending on where yours is.
+Need JavaFX 13 probably.
+
+
+
+--module-path=C:\Users\Calvin\Downloads\javafx-sdk-13.0.1\lib --add-modules=javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web

@@ -1,0 +1,5 @@
+Username,Password,Wins,Losses
+ericv1000,u,10,12
+ericv,o,0,0
+conman,1,1000,7
+theguy1,1,0,1
